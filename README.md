@@ -51,3 +51,17 @@ cleaner.apply_transformations()
 
 # Save the cleaned data to a new CSV file
 cleaner.save_cleaned_data("cleaned_data.csv")
+
+
+## Requirements
+
+* pandas
+* numpy
+
+## Contribution
+
+Contributions, bug reports, and feature requests are welcome! Feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
