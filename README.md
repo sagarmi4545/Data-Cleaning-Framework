@@ -50,7 +50,7 @@ cleaner.remove_outliers(column_name='column_name', z_score_threshold=3)
 cleaner.apply_transformations()
 
 # Save the cleaned data to a new CSV file
-cleaner.save_cleaned_data("cleaned_data.csv")
+cleaner.save_cleaned_data("cleaned_data.csv")```
 
 
 ## Requirements
