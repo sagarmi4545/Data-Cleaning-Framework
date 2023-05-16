@@ -63,6 +63,9 @@ cleaner.save_cleaned_data("cleaned_data.csv")
 
 Contributions, bug reports, and feature requests are welcome! Feel free to open an issue or submit a pull request.
 
+## Note
+Still under development and will add more methods and parameters for each method for more refined cleaning.
+
 ## License
 
 This project is licensed under the MIT License.
